@@ -11,7 +11,7 @@
  start_second                        = 00,   00,   00,
  end_year                            = 2004, 2020, 2020,
  end_month                           = 08,   07,   07,
- end_day                             = 29,   30,   30,
+ end_day                             = 31,   30,   30,
  end_hour                            = 12,   00,   00,
  end_minute                          = 00,   00,   00,
  end_second                          = 00,   00,   00,
